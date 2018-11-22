@@ -1,6 +1,6 @@
 # 전자시계 만들기
- P16F876A PROCESSOR 를 사용하여 설계 되었습니다.
-
+P16F876A PROCESSOR 를 사용하여 설계 되었습니다.
+코드에 대한 설명은 모두 주석으로 달아놓았습니다.
 ## 설계 목표
 1. 전자시계 기본 기능 구현
    - 시계 기능(시분, 초, 월일, 연도)
@@ -34,3 +34,8 @@
 - DISPLAY된 숫자가 같은 숫자일 경우 부저가 울림
 - 아닐 경우 SW2 누르면 게임 다시 시작
 - SW1을 누를 경우 MODE 변경으로 게임 종료
+
+## 설계결과
+![1](https://user-images.githubusercontent.com/31886913/48901513-0cfb4180-ee99-11e8-8d4d-574181cb5e7b.PNG)
+![2](https://user-images.githubusercontent.com/31886913/48901515-0e2c6e80-ee99-11e8-96f1-1e8043da3ef6.PNG)
+![3](https://user-images.githubusercontent.com/31886913/48901518-0f5d9b80-ee99-11e8-858f-66322d1f9ff8.PNG)
